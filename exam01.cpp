@@ -19,7 +19,7 @@ int main()
     }
 
     cout << "Total positive numbers: " << p_num << endl;
-    cout << "Total positive numbers: " << n_num << endl;
+    cout << "Total negative numbers: " << n_num << endl;
 
     return 0;
 }
